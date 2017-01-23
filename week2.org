@@ -1,0 +1,54 @@
+#+OPTIONS: toc:nil num:nil
+* Week 2
+** Concepts
+*** Thinking Critically
+    - To think critically means you don't accept everything at face value. In a way,
+      you are skeptical, if only because you haven't been given a good reason to
+      accept it.
+    - Thinking critically is one of the things that defines our intelligence. It
+      allows us to exercise our brains. Instead of taking something at face value,
+      and saying, "I learned something today," we can apply critical thinking to
+      use it as fuel for seeking more knowledge. On a social level it prepares us for
+      conversation in that it allows us to decide in advance what we believe and why.
+    - Proofs are abundant in the theoretical aspects of computer science. In many
+      cases, it is particularly easy to prove something false; you simply need to
+      find one exception.
+*** Fake News/Research
+    - Fake news/research is a huge problem. It plagues legislation, academics, and medicine.
+    - With fake news/research being such a huge problem, it is more important
+      than ever to be skeptical of what you read, even published research.
+    - When writing papers, it is important to screen articles before you use them for your
+      sources not only to ensure your papers are accurate but also because you will
+      have to cite them, and you do not want your paper to be attached to a journal
+      with a less than satisfactory reputation.
+*** Experimenter Effects
+    - The phenomenon that occurs when the experimenter inadvertantly influences the
+      outcoume of his/her experiments
+    - This ties into thinking critically and flawed research. The phenomenon of
+      the effect the experimenter can have on the experiment demonstrates how
+      important it is to question the validity of said experiment and derivative
+      research papers.
+    - Once I watched a video of a man asking a bunch of people to figure out a
+      numerical rule he had in mind. In order to guess it they could say a
+      sequence of numbers, and he would tell them if it conformed to his rule.
+      People would offer numbers like [2, 4, 6], [3, 9, 27]. They basically
+      formed their own rule and proceeded to only inquire about sequences that
+      conformed to their own rule. After several attempts and getting very
+      frustrated, they finally realized that the key was to inquire about a
+      sequence that did not conform to any rule they were aware of. As soon as
+      one person inquired about [3, 2, 1] and [6, 4, 2] it became clear that the
+      rule they had to guess was numbers in increasing order. Being open-minded
+      and not blinding yourself, restricting yourself only to what you know, is
+      the key.
+** Think about
+   - What authority will you have in your future as a 'professional'?
+     - Determining the strategy of a project
+     - Designing software architecture
+     - Managing other developers
+   - Is 'engineering' a profession? Why? Does this tile have the potential for abuse?
+     - It is a very broad profession.
+     - Perhaps people not in the field of
+       engineering may call those in the field engineers. However, I think it
+       is more helpful to describe someone using a more specific title.
+     - Because the title is so broad, it is very easy to claim someone is an
+       engineer, that he or she knows what she is doing, and what he or she says goes.
