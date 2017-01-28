@@ -1,0 +1,28 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Week 3
+* Culture
+- Culture is all the things that defines a group, from habits and social norms,
+  to their beliefs and forms of art, that distinguishes from other groups.
+- When we meet someone for the first time, it is customary to firmly shake hands. In
+  some cultures, such a firm hand shake would be considered rude, such as in
+  Turkey. 
+* GM Case Study
+- The company has a culture that fosters 'incompetence' and 'neglect'. Employees
+  of the company have a habit of not taking responsibility for anything acting
+  like it is always someone else's problem.
+- Company culture is cultivated and nurtured often by executives. If those
+  executives foster a culture that is toxic to society, then they are a problem,
+  and they need to go. Unfortunately since GM is a private company, it isn't as
+  simple as replacing management with people whose moral compases are not so
+  passive. The only solution I see is to burn the company to the ground by
+  hurting their reputation so badly that they have no choice but to go out of business.
+* Water Boiling Reflection
+- Understanding another culture is not always so easy. You have to be careful so
+  as not to make members of another culture feel alienated. Making assumptions
+  about another culture based on our own may not be as productive as we think.
+- I plan to work at google, a very diversified company, in the future. I would
+  be interacting with many different people from many different cultures. These
+  concepts would enable me to be more conscious of our social differences and be
+  a little more sensitive about them.
