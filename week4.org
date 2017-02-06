@@ -1,0 +1,36 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Week 4
+* Diversity
+Diversity refers to the individual perspectives, life experiences, and ideas
+that are individually contributed by members of a group or organization.
+* Alamo
+Source: http://www.historynet.com/battle-of-the-alamo
+- Three revolutions leading up to the battle of the alamo
+  - Spanish revolt against French occupation of Spain (1808)
+  - Mexican revolt against Spanish occupation (September 15, 1810)
+  - After Mexico finally gained freedom in 1821, Santa Anna led a revolt against
+    rebel-turned-Mexican-emperor, Spanish general Agustin de Iturbide
+Source: http://www.thealamo.org/remember/history/defenders/index.html
+- Places defenders (listed at the above link) from the alamo come from (and how
+  many come from there)
+| Alabama        |  1 | Arkansas              |  2 | Connecticut   |  1 |
+| England        | 10 | Georgia               |  4 | Germany       |  2 |
+| Illinois       |  1 | Ireland               | 10 | Kentucky*     | 15 |
+| Louisiana      |  4 | Maryland              |  1 | Massachusetts |  4 |
+| Mississippi    |  2 | Missouri              |  5 | New Hampshire |  1 |
+| Ney York       |  6 | North Carolina        |  7 | Ohio          |  4 |
+| Pennsylvania   | 15 | Rhode Island          |  1 | Scotland      |  4 |
+| South Carolina |  7 | Spanish/Mexican Texas |  8 | Tennessee*    | 32 |
+| Vermont        |  1 | Virginia*             | 14 |               |    |
+- Notably, James Bowie is from Kentucky; William Travis is from South Carolina;
+  Davy Crocket is from Tennessee.
+- Just the defenders listed at thealamo.org is very diverse group of people. And
+  three of those people, notably Bowie, Travis, and Crocket came from different
+  places.
+- Imagine that if the group had not been so diverse and only those from
+  Spanish/Mexican Texas defended the Alamo, there would indeed be significantly
+  less diversity, and Texas may be a very different place than it is today. 
+
+
