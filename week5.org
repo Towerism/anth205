@@ -1,3 +1,7 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Week 5
 * Week 5
 The woodcutter was telling the truth. His final story is the one that sounded
 least embellished and explained certain ubelievable elements of the stories that
