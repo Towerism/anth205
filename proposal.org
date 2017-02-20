@@ -1,0 +1,67 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Proposal
+* Person of Interest
+I will be contacting Curtis Hite, CEO of Improving Enterprises. Improving
+Enterprises is a fast growing company which was founded over 10 years ago by
+Hite and several others. Hite began his career as a software engineer in the
+Defense industry, rising through the ranks of Raytheon to eventually become
+Chief Software Architect. His executive experience continued to grow at Valtech
+Technologies where he served as CEO for over 5 years. Later he founded Blue
+Ocean Group, a consulting group which would eventually merge with a small
+training company, Improving Enterprises.
+* Personal Rationale
+I have been working at Improving Enterprises for 11 months. It is an amazing
+company, with great values and a fantastic culture. Being an aspiring software
+engineer, I wish to remain technical throughout my career; although I would
+still like to hone my leadership skills. I have not personally met Mr. Hite, but
+he is an inspiration to me not just as a leader but also as a software engineer
+who puts a lot of value and effort into building trust.
+
+* Initial Contact Email
+The following is a draft of the initial contact email I will be sending to
+Curtis Hite.
+#+begin_example
+Dear Mr. Hite,
+
+I am an Associate Consultant at Improving and also a senior computer science
+student at Texas A&M and I plan to continue working at Improving full-time once
+I graduate. I was wondering if you would be willing to sit down with me for a 30
+minute conversation about cultural diversity and ethics in the consulting
+industry. As you founded the Blue Ocean Group with an intention of bringing
+trust back into the industry, I would very much like to hear your perspective on
+how these topics have impacted your career. With your permission, the
+conversation would also be videotaped or recorded and compiled in an oral
+history project for my Cultural Diversity and Ethics class at A&M, but I would
+still like to hear your perspective even if you are not comfortable being
+recorded or having the recording on record. You can reach me at mfracker@tamu.edu
+or 979-676-5680.
+
+Best regards,
+
+Martin Fracker
+#+end_example
+* Open Ended Questions
+The following are some open ended questions I plan to get the conversation
+started with Mr. Hite.
+- How did you get into Computer Science?
+- What prompted you to want to enter into the consulting industry after Raytheon?
+- Can you elaborate on your mission of restoring trust in the consulting industry?
+* Back-up Questions
+I have planned some back-up questions in case the conversation runs a little dry.
+- What initially drew you into the defense industry?
+- How did you go from Software Engineer to Chief Software Architect?
+- What prompted you to form Blue Ocean Group after being CEO of Valtech for over
+  5 years?
+* Methods
+The Improving Headquarters is located in Dallas, Texas. Once Mr. Hite has agreed
+to do the interview, I will plan to travel to Dallas since it is only a 3 hour
+drive. I will have the camera set up behind me so that Mr. Hite is in the center
+of the frame.
+* Potential Problems
+Being the CEO of a medium-sized company, Mr. Hite is a busy individual. It is
+likely that the times he will be available to meet with me will conflict with my
+class schedule, especially since Dallas is 3 hours away. Hopefully he can make
+himself available on the weekends in this case. If not I will plan to have a
+skype meeting with him.
