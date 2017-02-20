@@ -1,0 +1,74 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Week 6
+* Articles
+1. *What ~ism do you most closely align with? Why?* I align most closely with
+   moral realism. My mind is very rational. I like to think that there is one
+   correct set of rules that everyone should follow. Anyone who wanders from
+   these set of rules are behaving immorally. 
+2. *Does your epistemology and axiology impact how you feel?* 
+   My axiology and epistemology of "truth is one" and "reality is found"
+   certainly show themselves in my alignment with moral realism.
+
+   When I first read the quoted definition of ethics in the first article,
+   namely that ethics is whatever society accepts, I thought that it was the
+   closest to what ethics is. I have a problem with the definition proposed by
+   the article. My axiology and epistemology of "truth is one" and "reality is
+   found" certainly have contributed to my perception of this problem. The
+   definition set forth is, in my opinion to broad. It gives many examples that
+   fall short of what ethics is, and it even gives several examples of what
+   ethics includes. Those examples which fall short, the article dictates, fall
+   short because they "deviate from what is ethical." These examples illustrate
+   what ethics isn't. Then, the article gives several examples of what ethics
+   refers to, but doesn't really give a solid definition.
+
+   That being said, the definition wasn't all bad. Being a part of a company
+   that fosters continuous development in not only technical ways but also moral
+   ways, I did like the notion of ethics referring to continuous development of
+   our own ethical standards.
+
+   Comapred to the first article, the general introduction to ethics does a much
+   better job defining ethics. It frames the shortcomings of ethics in that it
+   can't point to a single right answer in most situations. Often, all ethics
+   can do is provide a framework for choosing between many seemingly-good options.
+* Film
+1. *Do pharmaceutical companies have a moral obligation to save lives?* I don't
+   believe so, at least not generally. In the public sector, yes they would.
+   However, in the private sector, I don't think so. Sure, I think that a good
+   company might try to save as many lives as possible. It is not, however, in
+   most companies best interest to go bankrupt to conduct research on a new
+   medicine that could save countless lives, especially if there was very low
+   chance of that fruitful in any reasonable amount of time. I don't think
+   society should expect any private company to do that. I say "private",
+   because I think it would be the duty of any public pharmaceutical company to
+   do everything possible to save lives.
+
+3. *Does the current patent regime for pharmaceuticals need to be reformed?*
+
+4. *WTO "TRIPS plus" standards require developing nations to grant pharmaceutical patents lasting at least 20 years. Is 20 years a reasonable time for drug companies to regain their investments? If not, how long should patents last?*
+
+5. *Do pharmaceutical companies have a right to set drug prices themselves? Why,
+   or why not?* Why wouldn't they? They should be able to set the price to
+   anything the people would be willing to pay for. The people working for
+   companies spending billions of dollars on breakthrough research need to be
+   adequately compensated for their work. They won't be adequately compensated
+   if the government forced their prices down. Furthermore, I think it comes
+   down to supply and demand. If the prices are forced lower than what people are
+   willing to pay, there will inevitably be a shortage or else the companies
+   making the drugs will lose money eventually forcing them out of business. In
+   this case, no one gets the drugs. Most drugs are not commodities. Their
+   prices should not be forced down.
+
+6. *Should patents come with strings attached? If so, what can governments
+   demand from patent holders?*
+
+7. *Can governments ever be justified in stripping companies of their patents if
+   they feel that the patents are being abused?*
+
+8. *Expanding the production of cheap generics in the developing world would certainly help millions of poor HIV patients receive much needed treatment. But what about poor people in the developed world who lack access to life-saving medications? And what about those who can afford branded drugs, but only barely?*
+
+9. *Because there are only so many ways in which a single disease or symptom can be effectively treated, drug patents often create monopolies, thus presenting consumers with only two options: buy this particular drug, or die. Can this be remedied, or can there never be a true free market for life-saving commodities?*
+
+10. *Make note of the purposeful ethnocentric arguments used by authorities to
+    support their positions.*
