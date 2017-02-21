@@ -3,7 +3,7 @@
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+TITLE: Week 6
 * Articles
-1. *What ~ism do you most closely align with? Why?* I align most closely with
+1. *What -ism do you most closely align with? Why?* I align most closely with
    moral realism. My mind is very rational. I like to think that there is one
    correct set of rules that everyone should follow. Anyone who wanders from
    these set of rules are behaving immorally. 
