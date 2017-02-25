@@ -1,0 +1,26 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Week 7
+The Association for Computing Machinery (ACM) code of ethics is a very
+traditional ordered list of guidelines. Thus, it appears its main purpose is to
+regulate behavior. The code of ethics at my company, Improving, is just a set of
+guiding principles: excellence, involvement, and dedication. These principles
+have done more to inspire me than anything else. Neither really dictates
+precisely how to do your job, although the Improving code of ethics has quite a
+bit more room for creativity. That being said Improving's set of guidelines
+should really be considered more as a statement of values than a code of ethics.
+Improving strives to be a best place to work, instilling broad principles in the
+work ethic of its employees while making them feel like they can be themselves
+around their coworkers. ACM's code of ethics really needs to be as encompassing
+as it is in its guidelines due to how big the organization is. Failure to adhere
+to the ACM code of ethics may result in termination of membership. On the
+otherhand, Improving is such a laidback company, and its guiding principles are
+so ingrained in the company culture that there is not much need to actively
+enforce those principles. There is no mechanism by which Improving's guiding
+principles can be changed, but they are so broad they don't really need to.
+ACM's code of ethics do change on occasion, and when they do the changes are
+distributed by the code listing on the ACM website. Improving's guiding
+principles are posted on their website, but they are also shown to improvers
+(Improving employees) who
+are onboarded.
