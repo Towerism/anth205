@@ -1,5 +1,5 @@
 #+OPTIONS: toc:nil num:nil
-#+AUTHOR: Martin Fracker
+#+AUTHOR: Martin Fracker Section 905
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
 #+TITLE: Week8
 Folding at Home (F@H) is a distributed computing initiative that aims to simulate
