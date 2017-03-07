@@ -1,0 +1,17 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Final Outline
+- Introduction
+  - Person I Interviewed
+    - CEO of Improving
+    - Background before Improving
+  - Consulting Industry, Issues of Trust, and Restoring Trust
+- Body
+  - Consulting Industry
+  - Issues of Trust
+  - Restoring Trust
+- Conclusion
+  - Subtopic conclusions
+  - New Questions and perspective
+  - Closure
