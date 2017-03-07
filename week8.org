@@ -1,5 +1,37 @@
 #+OPTIONS: toc:nil num:nil
 #+AUTHOR: Martin Fracker
 #+LATEX_HEADER: \usepackage[margin=1in]{geometry}
-#+TITLE: Week 8
-Folding at Home.
+#+TITLE: Week8
+Folding at Home (F@H) is a distributed computing initiative that aims to simulate
+highly complex mechanisms of protein folding and in particular to analyze
+protein misfolding and its causes in order to better understand diseases such as
+Alzhheimer's, Huntington's, cancer. F@H's uses also include drug
+design in computer-assisted drug design which can drive down the costs of drug
+discovery.
+
+These biological fields which F@H is tackling had previously been held back by
+computation problems which would take several hundred thousand years of
+computation on modern super computers. F@H encourages people all over the world
+to donate their computing resources, from their smart phones and laptops to
+their gaming consoles, and contribute to the compute efforts. Users donate
+computing resources by downloading software which connects to the F@H server to
+receive pieces of simulation (otherwise known as a work unit), complete them,
+and return them back to the server so it can compile it all the individual work
+units into a complete simulation.
+
+F@H provides contribution stats on their website so users can see the impact
+they are making. F@H uses this to instill competition and encourage long-term
+participation.
+
+Given the empirical nature of the analysis of biological analysis, the
+initiative largely adopts a positivist mindset. Additionally the initiative has
+been largely successful; their home website boasts that the distributed network
+supported by over 100,000 computers all over the world outputs more than 92,000
+teraflops. One of the assumptions that made the initiative work so well is that
+competition would encourage people to donate their computing power for free.
+Given how powerful the F@H network is today, that assumption seems to be
+correct. This could be spun in order to incorporate cultural relativism into
+this quick task: people from all over the world take part in this F@H
+competition, because in some form their culture values competition, and, while
+one culture may not understand the value another culture finds in competition,
+it is wise to just accept it and take advantage of it for the good of science.
