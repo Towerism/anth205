@@ -1,0 +1,131 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Week 9
+* QT
+** Facts
+  - Google Waymo
+    - Detects pedestrians, cyclists, vehicles, road work, and more
+    - Detection radius of two football fields
+    - Can predict movement of other bodies
+    - Merging traffic such as bikes or cars on the freeway
+    - Relies on two million miles of real world experience
+    - Defensive driving
+    - E.g. stay out of blind spots and nudge away from large vehicles
+  - First crash of a tesla model s that was operating in auto pilot mode.
+    - Note tesla's auto pilot mode does not imply an AI fully capable of driving
+      a car.
+      - Auto pilot is merely a suite of driver assist features, such as
+        - auto lane change
+        - Self park
+        - Traffic aware cruise control
+        - Summon to and from garage/parking spot
+    - No recalls were ordered by the US National Highway Traffic Safety
+      Administration since it placed responsibility for the accident primarily on
+      the driver
+      - The driver was watching a movie at the time of the accident
+      - The truck which the tesla collided with was visible within 7 seconds of
+        the crash
+      - The driver did nothing to avoid the crash, neither break nor attempt to
+        steer out of the way
+  - Insurance Rates
+    - Insurance company, Root
+    - Noticed that Tesla's crash rate reduced by 40% after auto pilot was introduced
+    - Rolling out self-driving car discount first to Tesla drivers, eventually
+      to all self-driving cars
+    - Tracks driving habits from the driver's smart phone
+    - Can detect autosteer-eligible highway miles
+** Perspectives
+  - Self driving cars will reduce traffic accidents
+    - A software fully dedicated to driving is less proned to accidents than a
+      human and to errors in general
+  - Nothing is 100% accident proof. Accidents, deaths even, will happen. Even if
+    at a substantially smaller rate, the accidents that do occur will be very
+    controversial as it will not be certain who will be at fault, the driver or
+    the manufacturer of the car.
+** Precedent
+  - Vaccines
+    - The goverment protects vaccination from lawsuits since it is necessary for
+      a healthy society. Compare previously high mortality rates from
+      unvacinnated diseases to the high mortality rates of car-related accidents.
+** Conceptual
+  - With tesla's auto pilot features, the driver is still responsible for the
+    actions of the vehicle. The definition of a self-driving car could be
+    limited to that of a vehicle which has features similar to that of tesla's
+    autopilot. This would limit the amount of contraversial accidents, but it
+    may not fully satisfy insurance companies who would otherwise lower interest
+    rates for cars that were "more" self-driving.
+  - A self-driving car could be defined as one which can perform not only all the
+    functions a driver would perform on a regular basis but also those which he
+    or she would perform only in novel situations, such as avoiding an accident
+    that occurs right in the moment. This would satisy the insurance companies,
+    but would not solve all of the ethical issues facing self-driving cars currently.
+** Scope
+  - If auto pilot features were the requirement for a car to be considered
+    self-driving, then tesla already has self-driving cars and there are not so
+    many ethical issues
+  - Otherwise, there are many ethical issues such as who is at fault during an
+    accident (driver or manufacturer).
+** Assumptions
+  - I am all for automation.
+  - I don't like sitting in front of a steering wheel for hours.
+  - I don't know what it feels like to know someone hurt by an automated
+    vehicle, such as a tesla.
+** Laws
+  - There is no legislation surrounding self-driving cars yet
+  - But there is much expectation that there will be before the first
+    self-driving car has even been commercialized.
+** Codes of Ethics
+  - The first moral imperative of the ACM Code of Ethics (Association for
+    Computing Machinery) are applicable here. The first one says to contribute
+    to society and human well-being. Self-driving cars would arguably satisfy
+    this altogether. Productivity would increase and traffic-related accidents
+    would go down significantly.
+  - The second one is a little more questionable: Avoid harm to others. To
+    follow this to the letter would likely imply forgetting the whole
+    self-driving car idea, obviously. However, since traffic-related accidents
+    would go down and since this is placed lower than the first moral
+    imperative, it might be overruled.
+* Notes
+The persistence skill is interesting because it reminds me of a particular
+software design strategy, Scrum. The traditional strategy, waterfall, involves
+all the design and planning happening up front often taking months or even years
+before implementation actually begins. Once implementation begins stakeholders
+tend to leave and come back later only to change specifications or once the time
+comes to integrate the system several months or years into the implementation
+phase. 
+
+This often leads to a huge pain as all of the specification changes
+usually haven't been documented, and integration is generally a painful process
+especially if several years of implementation carried without any prior
+integration. Scrum embraces the philosophy of, "If something hurts, do it more."
+It's sort of like the idea of doing laundry or dishes more often so that there
+are less dishes and clothes to deal with. Scrum advocates tiny increments not
+lasting more than 1 to 2 months usually. At the beginning of an increment there
+is always a planning phase and at the end a review phase, both phases involving
+the stakeholders usually. 
+
+The increment almost always delivers a potentially
+releasable product meaning that with Scrum the team is incrementing incredibly
+often. Compare the 1 to 2 month Scrum increment to the implementation phase of
+waterfall that may last years without much involvment of the stakeholders. To
+me, Scrum is all about persistence making it as easy as possible to adapt to
+change. I use Scrum in my team at work every day and our client is fully
+involved in our development process even though they are not technical.
+
+The principles skill sort of reminds me of a tool that Scrum provides called
+story pointing. A story is a user-oriented description of a particular feature.
+It does not usually have any implementation details captured. Pointing a story
+is something the development team does to ballpark the effort required to
+implement the described feature. I believe it ties into the principles skill,
+because several pointed stories together provides a picture of how long it would
+take for the team to complete all of them. Over time, the team can track how
+many points they consume in an increment so that empirically they can track
+the improvement of their velocity.
+
+According to a couple of the articles we had to read, there are people who value
+self driving cars which are willing to sacrifice the driver to save pedestrians.
+Yet, those same people wouldn't want to ride in one of those cars. Of course
+not! In fact, those same people would be less likely to buy a self-driving car
+if regulation required that driverless cars behave exactly in that way?? This
+kind of frustrates me.
