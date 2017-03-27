@@ -1,0 +1,37 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker Section 905
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Week 10
+* Notes
+** Social and Cultural Construction
+- Idea, belief, or conecept people have created, and they organize their actions
+  and thoughts around it
+- Things that could not have existed without culture and society
+- Each of them could have been constructed differently, by different people in a
+  different culture in a different time and space
+- *natural and obvious* to people who accept it 
+- Change over time
+- Influenced by political and economic influences
+- Apparently the notion of unconditional maternal love can be culturally desctructed
+  - Maybe some cultures develop a numbness to child death to cope with harsh
+    living conditions or as an excuse to lessen the burden of child rearing.
+    With such a high still-born rate, I would guess the first one.
+  - In the reading, women found it dangerous to decide to love a child. It might
+    break your heart and die, or in their eyes it never wanted to live in the
+    first place.
+  - With how many baby deaths these kinds of towns experience, they don't mark
+    the graves of the deceased babies. Maybe it would be too much for the
+    mothers to conciously keep track of all the ones they lost.
+  - Selective childhood neglect is common in societies characterized by high
+    childhood mortality
+- I think maternal love is innate. But when circumstances are so dire that child
+  death is anticipated, expected even, it might be easy to eventually become
+  numb to it and become less attached to those babies which look like they have
+  the slightest chance of not making it in hopes of protecting oneself mentally
+  from the mental storms brought on by frequent child death.
+*** Examples
+- Paper money: extrinsic value culturally constructed
+- Lines drawn on map: treaties, laws, ownerships of land
+- Football
+- Breakfast: not every culture has the same cultural construction for breakfast,
+  this can be extended to every other meal
