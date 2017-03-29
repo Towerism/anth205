@@ -1,3 +1,6 @@
+* Interview Recording
+- In raw recording, interview begins at about 4:55
+
 * How did you go from studying Finance, MIS, and Psychology to teaching Computer Science?
 - Times were different
 - Businesses hired software developers from business schools
