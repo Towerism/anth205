@@ -1,0 +1,59 @@
+* How did you go from studying Finance, MIS, and Psychology to teaching Computer Science?
+- Times were different
+- Businesses hired software developers from business schools
+- If you wanted to build business apps, you had to have a business degree
+- Software was simpler back then
+  - Read and display stuff from database
+  - Generate repors
+- Became professor through networking from Valtech
+  - Professors needed help teaching freshman
+- Engineering practices necessary
+- Having domain expertise used to be critical
+- Now, as long as you have somebody who can explain the business rules
+  - Business Analyst roles
+
+* Experience
+- French Company
+- 
+* How does Psychology fit into your career?
+- Organizational dynamics
+- Education different now than it was in 1980s
+
+* You worked at Valtech for more than 7 hears as VP, Global Sourcing and then VP, Global Services.
+** What were kinds of challenges did you face--ethical, cultural, or otherwise?
+- Culture is different in India
+- Grew to respect their culture
+- Challenge: time zone difference
+  - Not as much communication
+  - Email and phone ineffective communication
+- People blame cultural difference, but communication breakdown can happen
+  regardless of culture
+- Unethical behavior
+  - Winning an engagement by paying money under the table by paying executive of
+    the client
+  - Lost a deal because competing offshore companies paid client off
+  - Lost business because "we chose the ethical path"
+    - Values attracted those who left valtech to found Improving
+
+* How did you become an Agile coach?
+- Always early adopter of everything
+  - smalltalk, OOP
+  - Java (to become Java consultant)
+  - Iterative development
+- Just trying to be on the bleeding edge
+  - Important in the field of consulting
+
+* What was it like being an agile coach for American Airlines in their agile adoption program?
+** What were the challenges?
+- People and organization not ready for change
+- Doing this for a long time, their skills are now in jeopardy
+- Got to be sensitive when communicating change
+- Evolution instead of fundamental shift
+- CIO at the time wanted agile adoption but didn't know what it was, unwilling
+  to change of his practices
+- Struggle for a year
+- Needed to get the middle managers to support what they were doing
+- CIO eventually fired, rumor ethics violations?
+- Promoted one of the product owners to CIO
+  - She saw success in Agile and completely changed the way they ran things
+
