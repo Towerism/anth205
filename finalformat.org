@@ -1,0 +1,34 @@
+* Thesis Statement
+- What the paper is about (forms a weak thesis statement)
+- If it is just a recap, there might not be an obvious argument. Try to develop
+  one anyway
+- What the paper is arguing (strong thesis statement)
+  - You don't have to know that it is true (you are just arguing it)
+  - If you might just recap, your argument can be about why your topics are important
+  - Your subtopics will be supporting your argument
+- My thesis statement
+  - Weak: My interview provided for me insight into how the IT consulting
+    industry is impacted by fast-evolving technologies, methods and the
+    unethical practice of buying engagements.
+  - Strong: Within the IT consulting industry it is important to keep up with
+    fast evolving technologies and methods and ___ in order to stay competitive
+    in a business where buying engagements is common.
+* One Topic
+  - Thesis Statement
+  - Intro
+  - Have many subtopics
+    - Topic Statement
+    - Present interview content
+    - Relate it to class
+    - Reflect on it
+    - Repeat for other subtopics
+* Two or more Topics
+** Related
+   Compare and contrast the topics
+** Unrelated
+- Mini-sections that wrap up with mini-conclusions
+- Narrow-to-broad or broad-to-narrow
+  - Specific things in the industry that have wide-reaching somewhat indirect effects
+  - Talk about something general such as a general political climate witin the
+    industry and what consequential technologies and structural change has come
+    out of it
