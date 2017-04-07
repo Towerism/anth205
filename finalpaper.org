@@ -1,0 +1,4 @@
+#+OPTIONS: toc:nil num:nil
+#+AUTHOR: Martin Fracker
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+TITLE: Restoring Trust in the Consulting Industry
