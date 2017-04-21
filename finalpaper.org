@@ -15,13 +15,12 @@ supported the originally proposed theme.
 Originally, the person to be interviewed was Curtis Hite who is CEO of Improving
 Enterprises. A response from him was not received. In order to keep the proposed
 topic of this critical reflection the same, several executives of Improving
-Enterprises from the Texas offices, Ken Howard being among them, except for the
-College Station office were contacted. The reason for excluding the College
-Station office was that everyone in the thatn office are personal
-acquaintances.
+Enterprises from the Dallas and Houston offices, Ken Howard being among them,
+were contacted. The reason for excluding the College Station office was that
+everyone in the that office is a personal acquaintance.
 
 Besides being the President of the Improving Houston office, Howard is also a
-Computer Science professor at Southern Methodist University (SMU). Due to his busy
+computer science professor at Southern Methodist University (SMU). Due to his busy
 schedule being tough to work around, a pure audio recording facilitated by Free
 Conference Call which is a technology familiar to most Improvers was the chosen
 medium for conducting the interview.
@@ -29,14 +28,14 @@ medium for conducting the interview.
 Various topics were covered including Howard's business and psychology
 education, his career in teaching Computer Science, his experience at Valtech
 which tested his ethical principles, and the importance of riding the bleeding
-edge of technology. Howard pursued a degree in business as used to bewas required
+edge of technology. Howard pursued a degree in business as used to be required
 by businesses for software development roles. Through networking, he picked up a
 job at SMU as a Computer Science professor. While working at a previous
 consulting company Valtech he competed with companies which bribed prospective
 clients for engagements.
 
 After Valtech, Howard and Curtis left to found Improving Enterprises. Improving
-aims uphold a high standard of ethical values, avoiding bribery while still
+aims to uphold a high standard of ethical values, avoiding bribery while still
 remaining highly competitive. In order to do this Improving encourages knowledge
 sharing within the company, building the company's domain knowledge, and
 utilizing rural-sourcing to lowball potential engagements. These things
@@ -45,33 +44,34 @@ together create a recipe for restoring trust in the consulting industry.
 
 * Critical Reflection
 It is important to find ways to remain competitive in the consulting industry, a
-business in which technical expertise has become more important than domain
-knowledge, technology rapidly becomes obselete, and buying engagements is
-common. It used to be all you needed to get hired as a software developer was a
-business degree. Now you need a computer science degree and good engineering
-skills. Especially in the consulting industry, it's imperative to commit to
-life-long learning. Permanently sticking to one technology stack is a sure way
-to become obsolete. Always learn new in-demand technologies in order to stay
-competitive. Finding other ways to stay competitive is also imperative when your
-competitors are bribing executives of your potential clients to hire them
-instead.
+business in which having technical expertise has become more important than
+having domain knowledge, technology rapidly becomes obselete, and bribing
+clients for engagements is common. It used to be that all you needed to get
+hired as a software developer was a business degree. Now you need a computer
+science degree and good engineering skills. Especially in the consulting
+industry, it is imperative to commit to life-long learning. Permanently sticking
+to one technology stack is a sure way to become obsolete. Always learn new
+in-demand technologies in order to stay competitive. Finding other ways to stay
+competitive is also necessary when your competitors are bribing executives of
+your potential clients to hire them instead.
 
 The consulting industry has certainly evolved over the years, from requiring
-specific domain knowledge in addition to technical expertise to only requiring
-techincal expertise and utilizing the client's onboarding process to become
-familiar with the specifics of their domain. In Mr. Howard's case, who wished to
-go into the business field as a software developer, he needed a business degree,
-because business only hired software developers from business schools. The idea
-was that if you wanted to build business software applications, you had to have
-a business degree. Business software was also simpler back then. In many cases,
-all they did was read and display information from a database and generate
-reports. Today, as far as domain knowledge goes, as long as you have someone who
-can explain the business rules, prior domain knowledge has become much less of a
-necessity. Mr. Howard's theory is that software has gotten more complicated. So
-much so, that computer science degrees and a good grasp on engineering practices
-are required when applying for many software development positions.
+specific domain knowledge in addition to technical expertise to instead
+requiring good engineering skills and utilizing the client's onboarding process
+to become familiar with the specifics of their domain. In Mr. Howard's case, who
+wished to go into the business field as a software developer, he needed a
+business degree, because business only hired software developers from business
+schools. The idea was that if you wanted to build business software
+applications, you had to have a business degree. Business software was also
+simpler back then. In many cases, all they did was read and display information
+from a database and generate reports. Today, as far as domain knowledge goes, as
+long as you have someone who can explain the business rules, prior domain
+knowledge has become much less of a necessity. Mr. Howard's theory is that
+software has gotten more complicated. So much so that a computer science degree
+and a good grasp on engineering practices are now required when applying for
+many software development positions.
 
-This means, a background in ethical problem solving is necessary in the 
+This means a background in ethical problem solving is necessary in the 
 consulting industry. Any engineering position, even if not public facing, would
 still carry with it consequences that would affect the general public. For
 example, an engineer who designed the latest rocketship for SpaceX greatly
@@ -82,29 +82,29 @@ has shifted from a business discipline towards an engineering one, then
 regardless of whether the client is public facing or not, it is important for
 consultants in the field to have a background in ethical problem solving.
 
-As an employee in the current consulting industry I can confirm that my role
-is definitely one of engineering and it did not require prior domain knowledge.
-The client I work for is in the business of providing risk management solutions
-to agribusinesses. I knew nothing about the business before joining the project,
-but I learn something new about their business with every meeting. Communicating
-with the client on a frequent basis and gathering requirements from them is a
-huge part of the job. The communication skills of an engineer are highly valued
-as getting the client to voice their requirements is one thing, but translating
-them properly is another.
+As an employee of Improving Enterprises I can confirm that my role is definitely
+one of engineering; furthermore, finding a project did not require prior domain
+knowledge. The client I work for is in the business of providing risk management
+solutions to agribusiness. I knew nothing about the business before joining
+the project, but I learn something new about their business with every meeting.
+Communicating with the client on a frequent basis and gathering requirements
+from them is a huge part of the job. The communication skills of an engineer are
+highly valued as getting the client to voice their requirements is one thing,
+but translating them properly is another.
 
 Staying on top of technology and best practices in an industry where technology
 rapidly becomes obselete is another challenge. Mr. Howard emphasized adopting an
 attitude of life-long learning as a necessity for anyone in the consulting
-industry. In the spirit of comitting to life-long learning Howard has always been
-an early adopter of technologies and software development best practices. He
-was, for example, an early adopter of the Agile approach to software
+industry. In the spirit of comitting to life-long learning Howard has always
+been an early adopter of technologies and software development best practices.
+He was, for example, an early adopter of the Agile approach to software
 development. A decade ago, it was common for businesses to employ the Waterfall
 method when designing and developing software, one that would ultimately result
 in wasted time and headaches due to the stakeholders not playing an active role
-in the development phase. Today much of the industry has
-shifted to a more Agile approach to software development, one in which
-stakeholders play a very active role in the development phase and provide a
-constant feedback loop for the developers.
+in the development phase. Today much of the industry has shifted to a more Agile
+approach to software development, one in which stakeholders play a very active
+role in the development phase and provide a constant feedback loop for the
+developers.
 
 Staying on top of technology and best practices does not have to be something
 only engineers in the consulting industry do. Other fields obviously
@@ -117,26 +117,26 @@ The consulting industry is a very competitive field, keeping up to date with
 best-practices and rapidly changing technology is just one way to make sure you
 stay competitive. Programming languages and methodologies are always changing.
 Languages are constantly being extended with new features that accelerate
-development, and methodologies are proposed that cope with the problems of those
-that came before it. Not staying up to date means that you will not be as
-efficient as the rest of the field and you will constantly be outbid by a
-consultant who can do it more efficiently and therefore more cheaply.
+development, and new methodologies that cope with the problems of those that
+came before it occasionally emerge. Not staying up to date means that you will
+not be as efficient as the rest of the field and you will constantly be outbid
+by a consultant who can do it more efficiently and therefore more cheaply.
 
 Perhaps one of the more shocking challenges Howard mentioned with regards to the
-competitive nature of the consulting industry was dealing with competitors
-who engaged in the practice of buying engagements. That is the competitors would
+competitive nature of the consulting industry was dealing with competitors who
+engaged in the practice of buying engagements. That is the competitors would
 bribe potential clients to do business with them. Howard worked for a consulting
-company called Valtech along with Curtis Hite who is now the CEO of the company
-I work for, Improving. Howard described an industry in which paying money under
-the table to an executive at the client was commonplace. While working at
-Valtech Howard lost at least one deal because competing offshore companies had
-paid the client off. This obviously resulted in lost business because Howard and
-his colleagues, Hite being among them, always opted for the ethical path. Hite
-went on to found Improving attracting those from Valtech, Howard being among
-them, who appreciated the ethical values upon which Improving was founded.
+company called Valtech along with Curtis Hite. Howard described an industry in
+which paying money under the table to an executive at the client was
+commonplace. While working at Valtech Howard lost at least one deal because
+competing offshore companies had paid the client off. This obviously resulted in
+lost business because Howard and his colleagues, Hite being among them, always
+opted for the ethical path. Hite went on to found Improving attracting those
+from Valtech who appreciated the ethical values upon which Improving was
+founded.
 
-Bribery is not only illegal but it puts other companies more deserving of the
-bid at an unnecessary disadvantage. Bribery is a huge problem, and although
+Bribery is not only illegal but it also puts other companies more deserving of
+the bid at an unnecessary disadvantage. Bribery is a huge problem, and although
 anti-corruption legislation has matured, it is difficult to change the way
 bribery is viewed by those who see it as a necessary evil. If a company needs to
 bribe a potential client to win an engagement, it implies that the company is
@@ -151,7 +151,7 @@ comes to work for Improving has a different background. By encouraging knowledge
 sharing through courses taught internally, Improvers get a chance to learn what
 others know. Improving seeks out engagements from various sectors such as
 financial services, transportation and leisure, and energy, to develop a vast
-pool of domain knowledged. Improving's strategy for winning engagements that
+pool of domain knowledge. Improving's strategy for winning engagements that
 would otherwise lose out to corrupt, under-the-table bribery, is to utilize its
 offices near college towns which employ college graduates and interns who are
 willing to work for less money allowing Improving to give lower estimates for
