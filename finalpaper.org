@@ -43,10 +43,10 @@ together create a recipe for restoring trust in the consulting industry.
 \newpage
 
 * Critical Reflection
-It is important to find ways to remain competitive in the consulting industry, a
-business in which having technical expertise has become more important than
-having domain knowledge, technology rapidly becomes obselete, and bribing
-clients for engagements is common. It used to be that all you needed to get
+*It is important to find ways to remain competitive in the consulting industry, a*
+*business in which having technical expertise has become more important than*
+*having domain knowledge, technology rapidly becomes obselete, and bribing*
+*clients for engagements is common.* It used to be that all you needed to get
 hired as a software developer was a business degree. Now you need a computer
 science degree and good engineering skills. Especially in the consulting
 industry, it is imperative to commit to life-long learning. Permanently sticking
@@ -113,7 +113,7 @@ mechanic who solves problem using the tools in his toolbox. Every couple of
 years new and better tools will become available, and the engineers who adopt
 them will be more effective than those who do not.
 
-The consulting industry is a very competitive field, keeping up to date with
+The consulting industry is a very competitive field, and keeping up to date with
 best-practices and rapidly changing technology is just one way to make sure you
 stay competitive. Programming languages and methodologies are always changing.
 Languages are constantly being extended with new features that accelerate
@@ -136,7 +136,7 @@ from Valtech who appreciated the ethical values upon which Improving was
 founded.
 
 Bribery is not only illegal but it also puts other companies more deserving of
-the bid at an unnecessary disadvantage. Bribery is a huge problem, and although
+the bid at a disadvantage. Bribery is a huge problem, and although
 anti-corruption legislation has matured, it is difficult to change the way
 bribery is viewed by those who see it as a necessary evil. If a company needs to
 bribe a potential client to win an engagement, it implies that the company is
@@ -144,26 +144,26 @@ not competent compared to other companies in the bid. For that company to win
 the engagement is unfair to the other companies who by their merit actually have
 a greater right to win the bid.
 
-Improving aims to improve trust in an otherwise corrupt industry by encouraging
+Improving aims to restore trust in an otherwise corrupt industry by encouraging
 knowledge sharing within the company, building the company's domain knowledge,
 and utilizing rural-sourcing to lowball potential engagements. Everyone that
-comes to work for Improving has a different background. By encouraging knowledge
-sharing through courses taught internally, Improvers get a chance to learn what
-others know. Improving seeks out engagements from various sectors such as
-financial services, transportation and leisure, and energy, to develop a vast
-pool of domain knowledge. Improving's strategy for winning engagements that
-would otherwise lose out to corrupt, under-the-table bribery, is to utilize its
+comes to work for Improving has a diverse background which contributes to the
+diversity of knowledge within the company. By encouraging knowledge sharing
+through courses taught internally, Improvers get a chance to learn what others
+know. Improving seeks out engagements from various sectors such as financial
+services, transportation and leisure, and energy, to develop a vast pool of
+domain knowledge. Improving's strategy for winning engagements that would
+otherwise lose out to corrupt, under-the-table bribery, is to utilize its
 offices near college towns which employ college graduates and interns who are
 willing to work for less money allowing Improving to give lower estimates for
 potential engagements.
 
-There are clearly ways to remain competitive in the consulting industry
-without participating in bribery. Winning engagements expands the company
-knowledge base. That knowledge base is a selling point for future engagements.
-Finding clever ways to cut internal training costs and drive down engagement
-estimates is how Improving wins engagements. An engineer with the domain
-knowledge is by no means necessary, but is always a plus for a client who can
-save money by having a shorter onboarding process. All employees of an
-organization can benefit from the experience gained from a won engagement
-through knowledge sharing. All these things together create a recipe for
-restoring trust in the consulting industry.
+There are clearly ways to remain competitive in the consulting industry without
+participating in bribery. Finding clever ways to cut internal training costs and
+drive down engagement estimates is how Improving wins engagements. Winning
+engagements expands the company knowledge base. That knowledge base is a selling
+point for future engagements. An engineer with the domain knowledge is by no
+means necessary, but is always a plus for a client who can save money by having
+a shorter onboarding process. All employees of an organization can benefit from
+the experience gained from a won engagement through knowledge sharing. All these
+things together create a recipe for restoring trust in the consulting industry.
