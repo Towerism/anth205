@@ -17,7 +17,7 @@ Enterprises. A response from him was not received. In order to keep the proposed
 topic of this critical reflection the same, several executives of Improving
 Enterprises from the Dallas and Houston offices, Ken Howard being among them,
 were contacted. The reason for excluding the College Station office was that
-everyone in the that office is a personal acquaintance.
+everyone in that office is a personal acquaintance.
 
 Besides being the President of the Improving Houston office, Howard is also a
 computer science professor at Southern Methodist University (SMU). Due to his busy
@@ -43,15 +43,13 @@ together create a recipe for restoring trust in the consulting industry.
 \newpage
 
 * Critical Reflection
-*It is important to find ways to remain competitive in the consulting industry, a*
-*business in which having technical expertise has become more important than*
-*having domain knowledge, technology rapidly becomes obselete, and bribing*
-*clients for engagements is common.* It used to be that all you needed to get
-hired as a software developer was a business degree. Now you need a computer
-science degree and good engineering skills. Especially in the consulting
-industry, it is imperative to commit to life-long learning. Permanently sticking
-to one technology stack is a sure way to become obsolete. Always learn new
-in-demand technologies in order to stay competitive. Finding other ways to stay
+It is important to remain current and competitive in the consulting industry
+without restoring to bribery. It used to be that all you needed to get hired as
+a software developer was a business degree. Now you need a computer science
+degree and good engineering skills. Especially in the consulting industry, it is
+imperative to commit to life-long learning. Permanently sticking to one
+technology stack is a sure way to become obsolete. Always learn new in-demand
+technologies in order to stay competitive. Finding other ways to stay
 competitive is also necessary when your competitors are bribing executives of
 your potential clients to hire them instead.
 
@@ -60,12 +58,12 @@ specific domain knowledge in addition to technical expertise to instead
 requiring good engineering skills and utilizing the client's onboarding process
 to become familiar with the specifics of their domain. In Mr. Howard's case, who
 wished to go into the business field as a software developer, he needed a
-business degree, because business only hired software developers from business
+business degree, because businesses only hired software developers from business
 schools. The idea was that if you wanted to build business software
 applications, you had to have a business degree. Business software was also
 simpler back then. In many cases, all they did was read and display information
 from a database and generate reports. Today, as far as domain knowledge goes, as
-long as you have someone who can explain the business rules, prior domain
+long as there is someone who can explain the business rules, prior domain
 knowledge has become much less of a necessity. Mr. Howard's theory is that
 software has gotten more complicated. So much so that a computer science degree
 and a good grasp on engineering practices are now required when applying for
@@ -75,7 +73,7 @@ This means a background in ethical problem solving is necessary in the
 consulting industry. Any engineering position, even if not public facing, would
 still carry with it consequences that would affect the general public. For
 example, an engineer who designed the latest rocketship for SpaceX greatly
-affects the public when he decides to not pay as much attention as he should to
+affects the public when he decides not to pay as much attention as he should to
 the pollution that the ship causes at launch even though the rocketship was
 designed for use by a private company. Therefore, as the consulting industry
 has shifted from a business discipline towards an engineering one, then
@@ -118,22 +116,22 @@ best-practices and rapidly changing technology is just one way to make sure you
 stay competitive. Programming languages and methodologies are always changing.
 Languages are constantly being extended with new features that accelerate
 development, and new methodologies that cope with the problems of those that
-came before it occasionally emerge. Not staying up to date means that you will
+came before them occasionally emerge. Not staying up to date means that you will
 not be as efficient as the rest of the field and you will constantly be outbid
 by a consultant who can do it more efficiently and therefore more cheaply.
 
 Perhaps one of the more shocking challenges Howard mentioned with regards to the
 competitive nature of the consulting industry was dealing with competitors who
-engaged in the practice of buying engagements. That is the competitors would
+engaged in the practice of buying engagements. That is, the competitors would
 bribe potential clients to do business with them. Howard worked for a consulting
 company called Valtech along with Curtis Hite. Howard described an industry in
 which paying money under the table to an executive at the client was
-commonplace. While working at Valtech Howard lost at least one deal because
-competing offshore companies had paid the client off. This obviously resulted in
-lost business because Howard and his colleagues, Hite being among them, always
-opted for the ethical path. Hite went on to found Improving attracting those
-from Valtech who appreciated the ethical values upon which Improving was
-founded.
+commonplace. While working at Valtech Howard lost at least one deal to a
+competing offshore company which had paid the client off. This obviously
+resulted in lost business because Howard and his colleagues, Hite being among
+them, always opted for the ethical path. Hite went on to found Improving
+attracting those from Valtech who appreciated the ethical values upon which
+Improving was founded.
 
 Bribery is not only illegal but it also puts other companies more deserving of
 the bid at a disadvantage. Bribery is a huge problem, and although
@@ -163,7 +161,8 @@ participating in bribery. Finding clever ways to cut internal training costs and
 drive down engagement estimates is how Improving wins engagements. Winning
 engagements expands the company knowledge base. That knowledge base is a selling
 point for future engagements. An engineer with the domain knowledge is by no
-means necessary, but is always a plus for a client who can save money by having
-a shorter onboarding process. All employees of an organization can benefit from
-the experience gained from a won engagement through knowledge sharing. All these
-things together create a recipe for restoring trust in the consulting industry.
+means necessary, but is always a plus for a client who can save money by
+allowing them to have a shorter onboarding process. All employees of an
+organization can benefit from the experience gained from a won engagement
+through knowledge sharing. All these things together create a recipe for
+restoring trust in the consulting industry.
